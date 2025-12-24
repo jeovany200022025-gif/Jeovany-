@@ -1,0 +1,7 @@
+{
+  "name": "Angola Milhões",
+  "description": "Uma plataforma de investimento moderna e segura para jovens angolanos obterem renda extra através do mercado de criptomoedas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
